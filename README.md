@@ -36,11 +36,11 @@ You can use keyboard shortcut to trigger the video skipper. This is the default 
 | **Windows/Linux** | Ctrl+Shift+Q|
 | **Mac** | Command+Shift+Q|
 
-[!NOTE]
-Remember, this extension working on the all video playing, not just the ad video.
+> [!NOTE]
+> Remember, this extension working on the all video playing, not just the ad video.
 
-[!WARNING]
-Be careful to shortcut conflict when changing the keyboard shortcut.
+> [!WARNING]
+> Be careful to shortcut conflict when changing the keyboard shortcut.
 
 ### Popup UI
 1. Click on this extension icon on the extensions toolbar.
