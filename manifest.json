@@ -1,0 +1,28 @@
+{
+  "name": "video-skipper-ext",
+  "description": "Youtube simple video skipper",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "service-worker.js"
+  },
+  "icons": {
+    "128": "icon.png"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "commands": {
+    "setVideoToEnd": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+Q",
+        "mac": "Command+Shift+Q"
+      },
+      "description": "set current video time to last 0.2 second"
+    }
+  }
+}

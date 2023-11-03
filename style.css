@@ -1,0 +1,22 @@
+#container {
+  width: 150px;
+  padding: 0.25rem 0.5rem;
+  color: #fff;
+  font-weight: 600;
+  background-color: #464141;
+  border-radius: 16px;
+}
+
+.button {
+  padding: 8px 12px;
+  text-align: center;
+  border-radius: 4px;
+  box-shadow: rgba(255, 255, 255, 0.4) 0px 2px 8px;
+  background: #5c9edb;
+}
+
+.button:hover {
+  color: #464141;
+  box-shadow: none;
+  cursor: pointer;
+}
